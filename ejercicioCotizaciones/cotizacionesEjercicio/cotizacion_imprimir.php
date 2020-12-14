@@ -28,7 +28,7 @@ $total = 0;
         <link rel="stylesheet" href="css/formularios.css">
         <!-- CSS de Bootstrap -->
     </head>
-    <body>
+    <body onload="window.print();">
         <div><img src="img/header.jpg" alt=""/> </div>
         <br><br>
         <div class="h2">
